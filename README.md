@@ -1,5 +1,5 @@
 # Dual-Arm Concentric Tube Robot
-This is the repo for the control system of a dual-arm concentric-tube robot developed at Center at Image-Guided Innovation and Therapeutic Innovation at Hospital for Sick Children. A short paper can be found here https://github.com/hazimian/dual_arm_concentric_tube/edit/main/README.md#:~:text=dual%2D-,arm,-%2Dhamlyn.pdf
+This is the repo for the control system of a dual-arm concentric-tube robot developed at Center at Image-Guided Innovation and Therapeutic Innovation at Hospital for Sick Children. A short paper can be found here https://github.com/hazimian/dual_arm_concentric_tube/blob/main/dual-arm-hamlyn.pdf 
 #
 Each arm has four joints with an additional end-effector joint.
 The arms are teleoperated using two Omni haptic devices.
